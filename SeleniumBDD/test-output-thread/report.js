@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"82aff738-3c98-4658-9aa4-35f3aac8093a","feature":"Search for the products","scenario":"Search for products in HomePage and print lowest price","start":1739133377984,"group":1,"content":"","tags":"","end":1739133394909,"className":"passed"},{"id":"10864766-e21d-4ac6-b3e6-94ba577dbf05","feature":"Search for the products","scenario":"Sort from Low to High and print price of lowest","start":1739133394925,"group":1,"content":"","tags":"","end":1739133407729,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[main,5,main]"}]);
+});
